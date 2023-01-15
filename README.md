@@ -3,7 +3,7 @@ This is my first repository.
 Made a little thing in C that barely counts as student grade management.
 The code was written by referring to a project code submitted by another Github user. Here is the link to the referenced project: https://github.com/sahilpant/linklist/blob/master/linklist.c
 As a beginner, I'd love to hear your suggestions. If you find anything in the code that could be improved or buggy, you are welcome to drop me a line.
-Thanks for your opinion and support!
+Thank you for checking it out and for your support!
 
 中文翻译(Chinese Translation:)
 这是我的第一个资源库。
